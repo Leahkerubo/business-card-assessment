@@ -38,6 +38,10 @@ html {
 h2,p {
   margin: 0;
 }
+article {
+  height: 12em;
+  background-color: rgba(0, 0, 0, 0.5);
+}
 /*styles specific to the setup of the card container*/ 
 /*styles specific to the header and footer*/
 
