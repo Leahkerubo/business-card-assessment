@@ -34,5 +34,13 @@ html {
   border-radius: 0 0 1.5em 1.5em;
   }
 /*styles specific to the main business card contents*/
+
+
 /*styles specific to the setup of the card container*/ 
 /*styles specific to the header and footer*/
+
+header,footer {
+  height: 3.4375em;
+  content: 1.875em;
+  padding: 0.625em, 0.625em, 0.625em, 0.625em;
+}
