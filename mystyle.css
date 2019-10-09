@@ -35,7 +35,9 @@ html {
   }
 /*styles specific to the main business card contents*/
 
-
+h2,p {
+  margin: 0;
+}
 /*styles specific to the setup of the card container*/ 
 /*styles specific to the header and footer*/
 
