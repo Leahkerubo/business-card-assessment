@@ -46,7 +46,14 @@ article {
 /*styles specific to the header and footer*/
 
 header,footer {
-  height: 3.4375em;
+  height: 5em;
   content: 1.875em;
   padding: 0.625em, 0.625em, 0.625em, 0.625em;
+}
+header h2{
+  font-size: 2em;
+  line-height: 1.5em;
+}
+footer {
+  font-size: 1.5em;
 }
