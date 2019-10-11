@@ -20,6 +20,7 @@ html {
     background-color: red;
     border: 0.2em solid black;
     border-radius: 1.5em;
+    line-height:15px;
 }
   .card article img {
     max-height: 100%;
@@ -48,12 +49,25 @@ article {
 header,footer {
   height: 5em;
   content: 1.875em;
-  padding: 0.625em, 0.625em, 0.625em, 0.625em;
+  /*padding: 0.625em, 0.625em, 0.625em, 0.625em;*/
 }
 header h2{
   font-size: 2em;
   line-height: 1.5em;
+  padding:10px 10px 10px 1px;
+  
 }
-footer {
+footer p{
   font-size: 1.5em;
+  padding:10px 10px 10px 6px;
+  
+}
+article p {
+  
+  color: aliceblue;
+  padding:10px 10px 10px 9px;
+  
+}
+header h2, footer p, article p {
+  margin-left: 1em;
 }
